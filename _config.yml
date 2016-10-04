@@ -1,2 +1,3 @@
 name: Chuckles, Intergalactic Nose Beer Reseller
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
